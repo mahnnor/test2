@@ -1,0 +1,68 @@
+.navigation {
+    width: 1265px; /* Set width of each div */
+    height: 80px; /* Set height of each div */
+    background-color: lightblue;
+    margin-right: 20px;
+    margin-left: 20px;
+   
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.sidebare {
+width: 340px; /* Set width of each div */
+height: 440px; /* Set height of each div */
+background-color: red;
+margin-right: 10px;
+ }
+.rightcol {
+width: 925px; /* Set width of each div */
+height: 440px; /* Set height of each div */
+background-color: pink;
+display: flex;
+justify-content: center;
+margin-left: 10px;
+}
+
+
+.c1 {
+width: 230px; /* Set width of each div */
+height: 230px; /* Set height of each div */
+background-color: rgb(123, 255, 0);
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 190px; }
+
+.c2 {
+width: 230px; /* Set width of each div */
+height: 230px; /* Set height of each div */
+background-color: rgb(0, 255, 174);
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 190px; }
+
+.c3 {
+width: 230px; /* Set width of each div */
+height: 230px; /* Set height of each div */
+background-color: rgb(68, 0, 255);
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 190px; }
+
+.body {
+    width: 1265px;
+    display: flex;
+margin-right: 20px;
+margin-left: 20px;
+margin-top: 10px;
+}
+.footer {
+    background-color: orangered;  
+    width: 1265px; /* Set width of each div */
+height: 50px;
+margin-right: 20px;
+margin-left: 20px;
+margin-top: 10px;
+}
